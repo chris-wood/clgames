@@ -1,0 +1,2 @@
+# clpoker
+console-based poker
